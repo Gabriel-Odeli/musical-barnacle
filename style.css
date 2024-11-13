@@ -10,3 +10,12 @@ img{
     width: 600px;
     height: 400px;
 }
+
+input{
+    width: 100px;
+    height: 20px;
+}
+button{
+    color: white;
+    background-color: black;
+}
